@@ -19,7 +19,7 @@ let package = Package(
     targets: [
         .target(
             name: "SpreadsheetView",
-            path: "Source")
+            path: "Sources")
     ],
     swiftLanguageVersions: [.v4, .v5]
 )
